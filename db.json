@@ -1,13 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "episode"
-  }
   "inventory_merchant_1": [
     {
       "logo_url": "some URL",
