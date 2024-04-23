@@ -1,19 +1,19 @@
 {
- "inventory_merchant_1":[
-   {
-   "logo_url": "some URL"
-   "view_all_url": "some random view all URL"
-   "items": [
-     {
-      "type": "article",
-      "thumbnail": "thumbnail URL"
-      "title": "This is the title of the article",
-      "likes": 4,
-      "content_url": "This is the actual pwa URL",
-      "views": 10,
-      "duration": "2 min"
-    }
-   ]
- }
- ]
+    "inventory_merchant_1": [
+        {
+            "logo_url": "some URL",
+            "view_all_url": "some random view all URL",
+            "items": [
+                {
+                    "type": "article",
+                    "thumbnail": "thumbnail URL",
+                    "title": "This is the title of the article",
+                    "likes": 4,
+                    "content_url": "This is the actual pwa URL",
+                    "views": 10,
+                    "duration": "2 min"
+                }
+            ]
+        }
+    ]
 }
