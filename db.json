@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ "inventory_merchant_1":[
+   {
+   "logo_url": "some URL"
+   "view_all_url": "some random view all URL"
+   "items": [
+     {
+      "type": "article",
+      "thumbnail": "thumbnail URL"
+      "title": "This is the title of the article",
+      "likes": 4,
+      "content_url": "This is the actual pwa URL",
+      "views": 10,
+      "duration": "2 min"
+    }
+   ]
+ }
+ ]
 }
