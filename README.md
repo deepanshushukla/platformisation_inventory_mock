@@ -1,0 +1,1 @@
+# platformisation_inventory_mock
