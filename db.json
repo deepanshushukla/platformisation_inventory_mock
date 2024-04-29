@@ -1,6 +1,5 @@
 {
-  "inventory_merchant_1": [
-    {
+  "inventory_merchant_1":  {
       "logo_url": "some URL",
       "view_all_url": "some random view all URL",
       "items": [
@@ -15,7 +14,7 @@
         }
       ]
   }
-]
+
 }
 
 
