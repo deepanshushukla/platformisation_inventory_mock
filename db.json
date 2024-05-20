@@ -6,7 +6,7 @@
   "content": [
     {
       "contentType": "VIDEO",
-      "duration": 2323,
+      "duration": null,
       "images": {
         "banner": "https://httimes.com/banner.webp",
         "thumbnail": "https://httimes.com/thumbnail.webp",
