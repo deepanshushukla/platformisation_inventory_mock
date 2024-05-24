@@ -30,6 +30,20 @@
       }
     }
   ]
+},
+ "inventory_merchant_invlaid":  {
+  "brandName": "Hindustan ZINDABAD",
+  "content": [
+    {
+      "contentType": "VIDEO",
+      "duration": null,
+      "images": {
+        "banner": "https://httimes.com/banner.webp",
+        "thumbnail": "https://httimes.com/thumbnail.webp",
+        "portrait": "https://httimes.com/portrait.webp"
+      }
+    }
+  ]
 }
 
 }
