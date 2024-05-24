@@ -14,6 +14,22 @@
       }
     }
   ]
+},
+"inventory_merchant_2":  {
+  "viewAllUrl": "https://view-all-url2.com",
+  "logo": "https://httimes.com/logo.webp",
+  "brandName": "Hindustan ZINDABAD",
+  "content": [
+    {
+      "contentType": "VIDEO",
+      "duration": null,
+      "images": {
+        "banner": "https://httimes.com/banner.webp",
+        "thumbnail": "https://httimes.com/thumbnail.webp",
+        "portrait": "https://httimes.com/portrait.webp"
+      }
+    }
+  ]
 }
 
 }
