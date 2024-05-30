@@ -5,8 +5,10 @@
   "brandName": "Hindustan cricket",
   "content": [
     {
+      "title": "Title-1",
       "contentType": "VIDEO",
       "duration": null,
+      "contentUrl": "Content-url", 
       "images": {
         "banner": "https://httimes.com/banner.webp",
         "thumbnail": "https://httimes.com/thumbnail.webp",
